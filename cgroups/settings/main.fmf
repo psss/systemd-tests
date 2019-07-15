@@ -1,5 +1,0 @@
-summary: Check & verify cgroups settings/configuration
-tags: [sanity, cgroups]
-tier: 1
-distros: [rhel-7, rhel-8]
-duration: 10m
